@@ -1,8 +1,8 @@
-#BS Card Game
+# BS Card Game
 I decided to make this card game since I had already made the ASCII art for the various cards already for a computer science class I had; it's also one of my favorite card games.
 In order to play correctly, you have to pass the computer around in a circle when it's each person's turn!
 
-##The Rules
+## The Rules
 In case you're not familiar, BS actually stands for bulls**t and you'll soon find out why.
 First, you need at least three people to play. Second, every player gets an equal number of cards from a shuffled deck.
 The game starts with a random person and with the Ace card. Each player at each turn has two options:
@@ -21,8 +21,8 @@ You go in a circle and the current cards rotate in order (Queen, King, Ace, Two,
 
 The first person to get rid of all their cards is the winner.
 
-##To compile:
+## To compile:
 make bs.exe
 
-##To run:
+## To run:
 ./bs.exe
