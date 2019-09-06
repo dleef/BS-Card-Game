@@ -2,7 +2,9 @@
 #include <string>
 #include "BSFunctions.hpp"
 using namespace std;
-
+/*
+** Author: Daniel Leef
+*/
 int main() {
 	
 	cout << "Welcome to the card game BS! To start you must enter how many people will be playing." << endl;

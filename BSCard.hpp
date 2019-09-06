@@ -3,6 +3,9 @@
 #include <iostream>
 #include <string>
 using namespace std;	
+/*
+** Author: Daniel Leef
+*/
 class Card {
 
 	public:

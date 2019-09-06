@@ -3,7 +3,9 @@
 #include <iostream>
 #include <string>
 #include "BSDeck.hpp"
-
+/*
+** Author: Daniel Leef
+*/
 void playerTurn(Deck *deck);
 
 void shuffleDeck(Deck *deck);

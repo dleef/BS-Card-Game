@@ -4,7 +4,9 @@
 #include <vector>
 #include "BSDeck.hpp"
 using namespace std;
-
+/*
+** Author: Daniel Leef
+*/
 Deck::Deck(int n) {
 
 	numPlayers = n;

@@ -3,6 +3,9 @@
 #include "BSPlayer.hpp"
 #include <vector>
 using namespace std;	
+/*
+** Author: Daniel Leef
+*/
 class Deck {
 
 	public:

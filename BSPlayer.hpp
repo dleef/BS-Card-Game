@@ -2,6 +2,9 @@
 #define PLAYER_H
 #include "BSCard.hpp"
 #include <vector>
+/*
+** Author: Daniel Leef
+*/
 class Player {
 	
 	public:

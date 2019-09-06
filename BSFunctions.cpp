@@ -8,7 +8,9 @@
 #include <vector>
 #include "BSFunctions.hpp"
 using namespace std;
-
+/*
+** Author: Daniel Leef
+*/
 void printCurrentCard(Deck *deck) {
 	cout << "Current Card: ";
 	if (deck->currentCard == 1) {

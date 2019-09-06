@@ -3,7 +3,9 @@
 #include "BSPlayer.hpp"
 #include <vector>
 using namespace std;
-
+/*
+** Author: Daniel Leef
+*/
 Player::Player(int numb) {
 	
 	playerNumber = numb;
