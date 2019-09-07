@@ -24,7 +24,7 @@ You go in a circle and the current cards rotate in order (Queen, King, Ace, Two,
 The first person to get rid of all their cards is the winner.
 
 # Instructions to Play
-Download a zip of this repo, unzip once downloaded and navigate to it. Then follow the below steps!
+Download a zip of this repo, unzip once downloaded and navigate to it in your terminal. Then follow the below steps!
 
 ## To compile:
 make bs.exe
