@@ -1,7 +1,7 @@
 # BS-Card-Game
 An implementation of the card game BS in C++!
 
-I decided to make this card game since I had already made the ASCII art for the various cards already for a computer science class I had; it's also one of my favorite card games.
+I decided to make this card game since I had made the ASCII art for the various cards already for a computer science class I had; it's also one of my favorite card games.
 In order to play correctly, you have to pass the computer around in a circle when it's each person's turn!
 
 ## The Rules
